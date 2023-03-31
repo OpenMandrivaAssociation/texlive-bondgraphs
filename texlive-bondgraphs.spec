@@ -1,6 +1,6 @@
 Name:		texlive-bondgraphs
 Version:	36605
-Release:	1
+Release:	2
 Summary:	Draws bond graphs in LaTeX, using PGF/TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bondgraphs
