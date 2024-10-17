@@ -3,7 +3,7 @@ Version:	36605
 Release:	2
 Summary:	Draws bond graphs in LaTeX, using PGF/TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bondgraphs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bondgraphs
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bondgraphs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bondgraphs.doc.r%{version}.tar.xz
